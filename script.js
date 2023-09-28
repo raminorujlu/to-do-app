@@ -1,3 +1,3 @@
 document.addEventListener("load", () => {
-  alert("Page loaded!");
+  alert("Page loaded! Keep working");
 })
